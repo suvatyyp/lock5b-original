@@ -6,6 +6,6 @@ class TestClass
 {
     public function getHello()
     {
-        return 'original hello';
+        return 'forked hello';
     }
 }

@@ -1,7 +1,10 @@
 {
-    "name": "kurtmoser/lock5b-original",
-    "description": "Lock5b (original)",
+    "name": "suvatyyp/lock5c-clone",
+    "description": "Lock5c (clone)",
     "autoload": {
         "psr-4": {"TestNamespace\\": "src/"}
+    },
+    "replace": {
+        "kurtmoser/lock5b-original": "1.*"
     }
 }

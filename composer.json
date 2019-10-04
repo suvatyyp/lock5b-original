@@ -1,0 +1,7 @@
+{
+    "name": "kurtmoser/lock5b-original",
+    "description": "Lock5b (original)",
+    "autoload": {
+        "psr-4": {"TestNamespace\\": "src/"}
+    }
+}
